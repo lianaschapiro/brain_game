@@ -31,29 +31,28 @@ h2 {
 	margin-top: 0px;
 	margin-left: 260px;
 }
+#occipital {
+	display: inline-block;
+	margin-top: 70px;
+	margin-left: 458px;
+}
 
 #temporal {
 	display: inline-block;
-	margin-top: 330px;
-	margin-left: 52px;
-}
-
-#occipital {
-	display: inline-block;
-	margin-top: 129px;
-	margin-left: 457px;
-}
-
-#brainstem {
-	display: inline-block;
-	margin-top: 390px;
-	margin-left: 97px;
+	margin-top: 184px;
+	margin-left: 50px;
 }
 
 #cerebellum {
 	display: inline-block;
-	margin-top: 360px;
-	margin-left: 451px;
+	margin-top: 10px;
+	margin-left: 453px;
+}
+
+#brainstem {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 97px;
 }
 
 p {
